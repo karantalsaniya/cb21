@@ -1,10 +1,19 @@
-// write a prgoram to findout whether given year is milinium year or not.
-#include <stdio.h>
+//write a program to accept month number from user. display message "this month has 28 or 29 days" if month if february
+
+#include<stdio.h>
 void main()
 {
-    int year = 0;
-    printf("enter the year ");
-    scanf("%d",&year);
+  int num = 0;
+  printf("Enter The Numner Of Month ");
+  scanf("%d",&num);
+   
+if (num==2)
+{
+    printf("this month has 28 or 29 days");
+}
 
-  //  if (year =)
+else
+{
+    printf("this month other than february");
+}
 }
