@@ -3,6 +3,8 @@
 void main()
 {
     int year = 0;
-    printf("inter the year");
+    printf("enter the year ");
     scanf("%d",&year);
+
+  //  if (year =)
 }
