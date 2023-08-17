@@ -4,5 +4,5 @@ void main()
 {
     int year = 0;
     printf("inter the year");
-    scanf("%d"&year);
+    scanf("%d",&year);
 }
