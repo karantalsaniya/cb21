@@ -1,13 +1,51 @@
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
-    printf("1");
-    printf("\n");
-    printf("1");
-    printf("1");
-    printf("\n");
-    printf("1");
-    printf("1");
-    printf("1");
+    int num = 1, new=1;
 
+
+while (new<=5)
+{
+    while (num <= new)
+    {
+        printf("%d", num);
+        num = num + 1;
+    }
+    printf("\n");
+    num = 1;
+    new=new+1;
+}
+
+    
+
+    // while (num <= 2)
+    // {
+    //     printf("%d", num);
+    //     num = num + 1;
+    // }
+    // printf("\n");
+    // num = 1;
+
+    // while (num <= 3)
+    // {
+    //     printf("%d", num);
+    //     num = num + 1;
+    // }
+    // printf("\n");
+    // num = 1;
+
+    // while (num <= 4)
+    // {
+    //     printf("%d", num);
+    //     num = num + 1;
+    // }
+    // printf("\n");
+    // num = 1;
+
+    // while (num <= 5)
+    // {
+    //     printf("%d", num);
+    //     num = num + 1;
+    // }
+    // printf("\n");
 }
