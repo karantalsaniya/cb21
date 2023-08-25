@@ -1,12 +1,12 @@
 #include <stdio.h>
 void main()
 {
-    int num = 1, new=1;
+    int num = 0, new=0;
 
 
 while (new<=5)
 {
-    while (num <= new)
+    while (num < new)
     {
         printf("%d", num);
         num = num + 1;

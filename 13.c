@@ -1,48 +1,39 @@
 #include <stdio.h>
 void main()
 {
-    int num = 5, new = 6, old = 1;
 
-    while (num <= 5 && num > 0)
-    {
-        while (num <= new &&num > 0)
-        {
-            printf("%d", num);
-            num = num - 1;
-        }
-        printf("\n");
-
-        new = new - old;
-        num = new - old;
-    }
-
-    // while (num <= 4 && num>0)
-    // {
-    //     printf("%d", num);
-    //     num = num - 1;
-    // }
-    // printf("\n");
-    // num = 3;
-
-    // while (num <= 3 && num>0)
-    // {
-    //     printf("%d", num);
-    //     num = num - 1;
-    // }
-    // printf("\n");
-    // num = 2;
-
-    // while (num <= 2 && num>0)
-    // {
-    //     printf("%d", num);
-    //     num = num - 1;
-    // }
-    // printf("\n");
-    // num = 1;
-
-    // while (num <= 1 && num>0)
-    // {
-    //     printf("%d", num);
-    //     num = num - 1;
-    // }
+     int count = 0;
+     int flash = 6;
+     while(flash > 0)
+     {
+          while (count < flash)
+          {
+               printf("*");
+               count = count + 1;
+          }
+          printf("\n");
+          count = 0;
+          flash = flash - 1;
+     }
+     // while (count < 5)
+     // {
+     //      printf("*");
+     //      count = count + 1;
+     // }
+     // printf("\n");
+     // count = 0;
+     // while (count < 4)
+     // {
+     //      printf("*");
+     //      count = count + 1;
+     // }
+     // printf("\n");
+     // count = 0 ;
+     // while(count < 3)
+     // {
+     //      printf("*");
+     //      count++;
+     // }
+     // printf("*");
+     // printf("*");
 }
