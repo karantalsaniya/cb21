@@ -12,6 +12,7 @@ void main()
     first=middle+4;//6
     second=first-second;//5
 
+
     printf("%d ",first);//1
     middle=first+second;
     first=middle+4;//6
