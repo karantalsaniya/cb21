@@ -1,0 +1,48 @@
+#nav {
+  display: flex;
+  background-color: #faf5da;
+  margin: 0px;
+  height: 100px;
+  border-radius: 20px;
+}
+
+#logo {
+  display: flex;
+margin-left: 200px;
+
+
+}
+#tag
+{
+    
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+#photo
+{
+    border-radius: 75px;
+}
+#r1
+{
+    padding-top: 34px;  
+}
+.li
+{
+    text-decoration: none;
+   padding-left: 20px;
+   padding-right: 10px;
+    font-size: 30px;
+    color: #402b1a;
+}
+p
+{
+   
+    font-size: 24px;
+    color: #402b1a;
+   
+    padding: 0px;
+    margin: 0px;
+
+    
+}
