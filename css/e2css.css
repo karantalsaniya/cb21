@@ -1,0 +1,19 @@
+p
+{
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: #1D5B79;
+    color:#F3AA60;
+    padding: 0px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+#bhav
+{
+    display: flex;
+    gap: 10px;
+    background-color: rgb(255, 204, 204);
+    border-radius: 20px;
+    
+}

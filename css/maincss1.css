@@ -1,0 +1,39 @@
+#nav
+{
+    display: flex;
+    background-color: #bcc9d6;
+}
+
+#logo
+{
+    display: flex;
+    margin: 0px;
+    height: 100px;
+}
+#r1
+{
+    
+    margin-top: 35px;
+    margin-left: 375px;
+    
+}
+.li
+{
+    text-decoration: none;
+    padding:10px ;
+    font-size: 24px;
+    color: #003e74;
+    
+}
+p
+{
+    margin-top: 35px;
+    font-size: 24px;
+    color: #003e74;
+}
+#search
+{
+ 
+  font-size: 12px;
+  padding: 7px
+}

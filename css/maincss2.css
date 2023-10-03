@@ -1,0 +1,35 @@
+#nav
+{
+    display: flex;
+    background-color: #f2e9e9;
+    margin: 0px;
+   height: 100px;
+}
+
+#logo
+{
+    display: flex;
+    margin: 0px;
+}
+
+p
+{
+    margin: 0px;
+    padding-left: 10px;
+}
+#t1
+{
+    margin: 35px;
+    color: #832729;
+}
+
+#t2
+{
+    margin: 35px;
+    margin-left: 600px;
+    color: #832729;
+    
+    
+}
+
+

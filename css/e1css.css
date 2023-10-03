@@ -1,0 +1,27 @@
+p {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 1.4rem;
+  background-color: rgb(146, 255, 255);
+  padding: 10px;
+  border-radius: 20px;
+}
+
+div
+{
+    background-color: blueviolet;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+
+}
+
+h1
+{
+   
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}

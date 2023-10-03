@@ -1,0 +1,26 @@
+p {
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: #1d5b79;
+  color: #f3aa60;
+  padding: 0px;
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+#bhav {
+    
+  display: flex;
+  gap: 20px;
+  background-color: rgb(255, 204, 204);
+  border-radius: 20px;
+}
+.pic {
+  padding-top: 10px;
+  padding-left: 60px;
+}
+
+
